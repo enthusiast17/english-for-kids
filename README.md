@@ -13,7 +13,8 @@ Simple application for learning English words for kids.
 - TS
 - ESLint (AirBnb)
 
-**Setup:**:
+**Setup:**
+
 Clone this repo and run the following commands:
 ```bash
   cd english-for-kids
