@@ -6,12 +6,12 @@ Simple application for learning English words for kids.
 
 **Technologies:**
 - TypeScript
-- Scss (BEM)
+- SCSS (BEM)
 - Webpack 5
 
 **Configs:**
 - TS
-- ESLint (AirBnb)
+- ESLint (AirBnB)
 
 **Setup:**
 
